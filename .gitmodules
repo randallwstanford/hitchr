@@ -1,6 +1,3 @@
 [submodule "hitchr-frontend"]
 	path = hitchr-frontend
 	url = https://github.com/randallwstanford/hitchr-frontend.git
-[submodule "hitchr-backend"]
-	path = hitchr-backend
-	url = https://github.com/The-Creative-Beavers/hitchr-backend.git
